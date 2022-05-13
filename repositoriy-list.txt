@@ -1,150 +1,16 @@
 bin_bash_scripts - bin directory bash/bat scripts, git configurations, git config scripts
 
-foreign_configuration_solutions - Jitemania's Software Developmet foreign libraries configuration solution
-_foreign_code_base - third party code bases
-_foreign_code_repositories - parent repository for other foreign repositories
-_foreign_original_repositories - parent repository for other foreign original repositories
-_jmsd_foreign_origins - Jitemania's foreign origins
+jsd_foreign_origins - Jitemania's foreign origins
+jsd_foreign_ea_origins -
 
 jitemania_solutions - Jitemania's Software Development solutions
-_jmsd_documents_and_support - Jitemania's documentation and support data
-_jmsd_cmake_settings - JMSD cmake settings
-_jitemania_code_base - Jitemania's internal code bases
-_jmsd_experimental - Jitemania's experimental components
-_jmsd_foreign_app_origins - Jitemania's foreign application origins
-_jmsd_foreign_components - Jitemania's foreign components
-_jmsd_foreign_sources - Jitemania's foreign sources
-_jmsd_layer_high_components - Jitemania's layer high components
-_jmsd_layer_low_components - Jitemania's layer low components
-_jmsd_layer_middle_components - Jitemania's layer middle components
-_jmsd_migration_components - Jitemania's migration components
-_jmsd_old_components - Jitemania's old components
+_jsd_cmake_settings - JMSD cmake settings
+_jsd_platform_support - platform support headers (include files)
 
-jmsd_component - Jitemania's component template
-jmsd_component_with_tests - Jitemania's component with tests template
-jmsd_exp_component - Jitemania's experimental component template
-
-catch2_jmsd - Jitemania's C++ testing framework (migration)
-catch2_original - Jitemania's C++ testing framework (catchorg / Catch2)
-cmake-templates-clone - Clone of https://github.com/district10/cmake-templates
-cmof_jmsd - Jitemania's C++ mocking framework (migration)
-cmof_original - Jitemania's C++ mocking framework (google: test and mock)
-
-jitemania_solutions_pre - Jitemania's Software Development solutions
-jmsd_tpa_cppunit - Jitemania's third party adapter for CppUnit
-
-jmsd_cppunit_lib - Jitemania's C++ unit testing framework clone (cppunit)
-jmsd_cppunitlite_lib - Jitemania's C++ unit testing framework clone (cppunit)
-jmsd_cule_lib - Jitemania's cpp unit lite enhanced library
-jmsd_cutflower - Jitemania's C++ unit testing framework library
-
-jmsd_foreign_catch_2 - catch2 fork
-jmsd_foreign_cppunit - cppunit fork
-jmsd_foreign_cppunitlite - cppunit lite fork
-jmsd_foreign_cpputest - cpputest fork
-jmsd_foreign_criterion - criterion fork
-jmsd_foreign_cute - cute fork
-jmsd_foreign_cxxtest - cxxtest fork
-jmsd_foreign_eastl - eastl fork
-jmsd_foreign_fakeit - fakeit fork
-jmsd_foreign_googletest - googletest fork
-jmsd_foreign_hippomocks - hippomocks fork
-jmsd_foreign_igloo - igloo fork
-jmsd_foreign_mockcpp - mockcpp fork
-jmsd_foreign_mockitopp - mockitopp fork
-jmsd_foreign_mockpp - mockpp fork
-jmsd_foreign_poco_openssl - poco c++ openssl fork
-jmsd_foreign_poco - poco c++ fork
-jmsd_foreign_template - [temporary] solution template with foreign dependencies
-jmsd_foreign_tpunitpp - tpunitpp fork
-jmsd_foreign_trompeloeil - trompeloeil fork
-jmsd_foreign_unittest_cpp - unittest-cpp fork
-jmsd_foreign_xunit - xunit fork
-jmsd_natibase_libs - Jitemania's native basic component libraries
-jmsd_nb_components_lib - Jitemania's native basic components library (first place to add)
-jmsd_nutfield - Jitemania's native testing framework library
-
-jmsd_original_catch_2 - catch2 fork (catchorg)
-jmsd_original_cppunit_libreoffice - cppunit fork (libbreoffice)
-jmsd_original_cppunitlite - cpp unit lite fork (onesadcookie)
-jmsd_original_cpputest - cpputest fork
-jmsd_original_criterion - Criterion fork
-jmsd_original_cute - CUTE fork
-jmsd_original_cxxtest - cxxtest fork
-jmsd_original_ea_assert - original EAAssert
-jmsd_original_ea_base - original EABase
-jmsd_original_ea_copy - original EACopy
-jmsd_original_ea_main - original EAMain
-jmsd_original_ea - original electronic arts
-jmsd_original_ea_stdc - original EAStdC
-jmsd_original_ea_stl - original EASTL
-jmsd_original_eastl - original eastl fork
-jmsd_original_ea_test - original EATest
-jmsd_original_ea_thread - original EAThread
-jmsd_original_fakeit - fakeit fork
-jmsd_original_googletest - googletest fork (googletest)
-jmsd_original_hippomocks - hippomocks fork
-jmsd_original_igloo - igloo fork
-jmsd_original_mockcpp - mockcpp fork
-jmsd_original_mockitopp - mockitopp fork
-jmsd_original_mockpp - mockpp fork
-jmsd_original_openssl -
-jmsd_original_poco_openssl - original poco c++ openssl binaries
-jmsd_original_poco - original poco c++ fork
-jmsd_original_tpunitpp - tpunitpp fork
-jmsd_original_trompeloeil - trompeloeil fork
-jmsd_original_unittest_cpp - unittest-cpp fork
-jmsd_original_xunit - xunit fork
-_jmsd_platform_support - platform support headers (include files)
 jmsd_repository_list - The list of all jitemania's repositories.
-jmsd_solutions_old Private - previous source code
-jmsd_solutions Private - current sources
-jmsd_temp_ta_saber_interactive - Test assignment for Saber Interactive
-jmsd_temp_ta_scrambling - Test assignment for bitstream scrambling
-jmsd_temp_ta_synchronized_queue - Jitemania's temporary repository for the test assignments
-_jmsd_tpa_components -
-jmsd_tpa_gtm - Jitemania's third party adapter for google test and mock
-jmsd_tpa_poco - Jitemania's third party adapter for Poco C++
-jmsd_tpc_alut - Jitemania's third party component for ALUT
-jmsd_tpc_component - third party component template
-jmsd_tpc_cppunit - Jitemania's third party component for CppUnit
-jmsd_tpc_flac - Jitemania's third party component for FLAC (Free Lossless Audio Codec)
-jmsd_tpc_freetype - Jitemania's third party component for FreeType (freely available software library to render fonts)
-jmsd_tpc_glew - Jitemania's third party component for GLEW (The OpenGL Extension Wrangler Library)
-jmsd_tpc_glut - Jitemania's third party component for GLUT
-jmsd_tpc_googletest - Jitemania's third party component for Google Test
-jmsd_tpc_ogg - Jitemania's third party component for Ogg (Ogg multimedia container format)
-jmsd_tpc_openal_soft - Jitemania's third party component for OpenAL Soft
-jmsd_tpc_png - Jitemania's third party component for libpng (official Portable Network Graphics reference library)
-jmsd_tpc_poco_cpp - Jitemania's third party component for Poco C++
-jmsd_tp_cppunit - Jitemania's fork of cppunit
-jmsd_tpc_sdl - Jitemania's third party component for SDL (Simple DirectMedia Layer)
-jmsd_tpc_sfml - Jitemania's third party component for SFML (Simple and Fast Multimedia Library)
-jmsd_tpc_vorbis - Jitemania's third party component for Ogg Vorbis (Vorbis audio compression)
-jmsd_tpc_zlib - Jitemania's third party component for zlib (A Massively Spiffy Yet Delicately Unobtrusive Compression Library)
-jmsd_tp_google_test_and_mock - Jitemania's fork of googletest
-jmsd_tp_poco_cpp - Jitemania's fork of Poco C++
-jmsd_tps_alut - Jitemania's third party fork for freealut
-jmsd_tps_component - third party sources template
-jmsd_tps_cppunit - Jitemania's third party fork for CppUnit
-jmsd_tps_flac - Jitemania's third party fork for FLAC (Free Lossless Audio Codec)
-jmsd_tps_freetype - Jitemania's third party fork for FreeType (freely available software library to render fonts)
-jmsd_tps_glew_cmake - Jitemania's third party fork for GLEW-CMake (The OpenGL Extension Wrangler Library)
-jmsd_tps_glut - Jitemania's third party fork for FreeGLUT
-jmsd_tps_googletest - Jitemania's third party fork for Google Test
-jmsd_tps_ogg - Jitemania's third party fork for Ogg (Ogg multimedia container format)
-jmsd_tps_openal_soft - Jitemania's third party fork for OpenAL Soft
-jmsd_tps_png - Jitemania's third party fork for libpng (official Portable Network Graphics reference library)
-jmsd_tps_poco_cpp - Jitemania's third party fork for Poco C++
-jmsd_tps_sdl - Jitemania's third party fork for SDL (Simple DirectMedia Layer)
-jmsd_tps_sfml - Jitemania's third party fork for SFML (Simple and Fast Multimedia Library)
-jmsd_tps_vorbis - Jitemania's third party fork for Ogg Vorbis (Vorbis audio compression)
-jmsd_tps_zlib - Jitemania's third party fork for zlib (A Massively Spiffy Yet Delicately Unobtrusive Compression Library)
+
 jms_framework_oldest - very old source code
-jms_framework - Old Jitemania Software Framework
-jms_framework_old Private - old source code
 _private_textual_data Private - playlists, etc.
-temporary_for_cell_intercept_processing - Temporary repository for cell intercept processing
 
 jitemania_factorio_mods - Jitemania's Factorio mods
 jfm_data_fetcher - Jitemania's modification of Data-Fetcher mod

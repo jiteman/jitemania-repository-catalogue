@@ -1,0 +1,22 @@
+catch2_original - Jitemania's C++ testing framework (catchorg / Catch2)
+cmake-templates-clone - Clone of https://github.com/district10/cmake-templates
+cmof_original - Jitemania's C++ mocking framework (google: test and mock)
+
+jmsd_tps_alut - Jitemania's third party fork for freealut
+jmsd_tps_component - third party sources template
+jmsd_tps_cppunit - Jitemania's third party fork for CppUnit
+jmsd_tps_flac - Jitemania's third party fork for FLAC (Free Lossless Audio Codec)
+jmsd_tps_freetype - Jitemania's third party fork for FreeType (freely available software library to render fonts)
+jmsd_tps_glew_cmake - Jitemania's third party fork for GLEW-CMake (The OpenGL Extension Wrangler Library)
+jmsd_tps_glut - Jitemania's third party fork for FreeGLUT
+jmsd_tps_googletest - Jitemania's third party fork for Google Test
+jmsd_tps_ogg - Jitemania's third party fork for Ogg (Ogg multimedia container format)
+jmsd_tps_openal_soft - Jitemania's third party fork for OpenAL Soft
+jmsd_tps_png - Jitemania's third party fork for libpng (official Portable Network Graphics reference library)
+jmsd_tps_poco_cpp - Jitemania's third party fork for Poco C++
+jmsd_tps_sdl - Jitemania's third party fork for SDL (Simple DirectMedia Layer)
+jmsd_tps_sfml - Jitemania's third party fork for SFML (Simple and Fast Multimedia Library)
+jmsd_tps_vorbis - Jitemania's third party fork for Ogg Vorbis (Vorbis audio compression)
+jmsd_tps_zlib - Jitemania's third party fork for zlib (A Massively Spiffy Yet Delicately Unobtrusive Compression Library)
+
+git@github.com:jiteman/_jmsd_foreign_origins.git
